@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorPrimary">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        app:theme="@style/MyCustomToolBarTheme">
+
+    </android.support.v7.widget.Toolbar>
+
+    <Button
+        android:id="@+id/add_fuel_log"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/add_fuel_log"
+        android:textColor="@color/white" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/add_car"
+        android:layout_below="@id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/enter_fuel_units"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:inputType="numberDecimal"
+                android:hint="@string/fuel_units"
+                android:textColor="@color/white"
+                android:textColorHint="#eaf9f9f9"
+                android:textSize="18sp" />
+
+
+            <EditText
+                android:id="@+id/enter_fuel_price"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/fuel_price"
+                android:inputType="numberDecimal"
+                android:textColor="@color/white"
+                android:textColorHint="#eaf9f9f9"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/odometer_value"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:inputType="numberDecimal"
+                android:backgroundTint="@color/white"
+                android:hint="@string/odometer_value"
+                android:textColor="@color/white"
+                android:textColorHint="#eaf9f9f9"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/additional_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/additional_info"
+                android:textColor="@color/white"
+                android:textColorHint="#eaf9f9f9"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/select_date"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:padding="5dp"
+                android:text="@string/select_date"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="18sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>

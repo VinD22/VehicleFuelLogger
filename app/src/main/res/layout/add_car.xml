@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="@color/colorPrimary">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark"
+        app:theme="@style/MyCustomToolBarTheme">
+
+    </android.support.v7.widget.Toolbar>
+
+    <Button
+        android:id="@+id/add_car"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="@string/add_car"
+        android:textColor="@color/white" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@id/add_car"
+        android:layout_below="@id/toolbar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <EditText
+                android:id="@+id/car_name"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/enter_car_name"
+                android:textColorHint="#eaf9f9f9"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+
+            <EditText
+                android:id="@+id/car_distance_travelled"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/distance_travelled"
+                android:inputType="numberDecimal"
+                android:textColorHint="#eaf9f9f9"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+
+            <EditText
+                android:id="@+id/car_additional_info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginTop="15dp"
+                android:backgroundTint="@color/white"
+                android:hint="@string/additional_info"
+                android:textColorHint="#eaf9f9f9"
+                android:textColor="@color/white"
+                android:textSize="18sp" />
+
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</RelativeLayout>
