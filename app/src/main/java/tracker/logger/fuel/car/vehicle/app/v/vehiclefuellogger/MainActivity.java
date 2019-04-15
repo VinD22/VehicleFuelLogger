@@ -1,6 +1,8 @@
 package tracker.logger.fuel.car.vehicle.app.v.vehiclefuellogger;
 
+import android.content.ActivityNotFoundException;
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.annotation.Nullable;
 import android.support.design.widget.FloatingActionButton;
@@ -50,6 +52,35 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        if(getIntent().getExtras() == null) {
+            // Toast.makeText(this, "Error in intents! (Contact Developer)", Toast.LENGTH_SHORT).show();
+        } else {
+
+            Bundle extras = getIntent().getExtras();
+            String url = extras.getString("url");
+            // Toast.makeText(this, "Url : " + url, Toast.LENGTH_SHORT).show();
+
+            if(url != null) {
+
+                if(!url.isEmpty()) {
+
+                    try{
+
+                        Intent i = new Intent(Intent.ACTION_VIEW);
+                        i.setData(Uri.parse(url));
+                        startActivity(i);
+
+                    } catch (ActivityNotFoundException e) {
+
+                    }
+
+
+                }
+
+            }
+
+        }
 
         realm = Realm.getDefaultInstance();
 

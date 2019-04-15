@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Tenere traccia del carburante pieno per tutti i veicoli</string>
+    <string name="add_car">Aggiungi l\'auto</string>
+    <string name="enter_car_name">Immettere il nome dell\'auto</string>
+    <string name="distance_travelled">L\'auto di distanza ha coperto finora</string>
+    <string name="additional_info">Inserisci ulteriori informazioni</string>
+    <string name="add_fuel_log">Aggiungere il registro del combustibile</string>
+    <string name="fuel_units">Unità di combustibile</string>
+    <string name="fuel_price">Prezzo del combustibile</string>
+    <string name="odometer_value">il contachilometri</string>
+    <string name="select_date">Seleziona Data</string>
+    <string name="date">Data</string>
+    <string name="check_my_other_apps">Controlla le mie altre applicazioni</string>
+    <string name="empty_fields">Campi Vuoti</string>
+    <string name="see_app_on_boarding">Vedere App su imbarco</string>
+    <string name="settings">impostazioni</string>
+    <string name="share">la porzione</string>
+    <string name="share_app">la porzione</string>
+    <string name="rate_app">Recensione App</string>
+
+</resources>

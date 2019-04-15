@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">すべての車両に充填された燃料を記録する</string>
+    <string name="add_car">車を追加</string>
+    <string name="enter_car_name">車名を入力</string>
+    <string name="distance_travelled">距離車は現在までカバーされている</string>
+    <string name="additional_info">追加情報を入力</string>
+    <string name="add_fuel_log">燃料ログを追加する</string>
+    <string name="fuel_units">燃料ユニット</string>
+    <string name="fuel_price">燃料価格</string>
+    <string name="odometer_value">オドメーター</string>
+    <string name="select_date">日付を選択</string>
+    <string name="date">日付</string>
+    <string name="check_my_other_apps">他のアプリをチェックする</string>
+    <string name="empty_fields">空のフィールド</string>
+    <string name="see_app_on_boarding">チュートリアルを見る</string>
+    <string name="settings">設定</string>
+    <string name="share">分け合う</string>
+    <string name="share_app">分け合う</string>
+    <string name="rate_app">批評</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Bijhouden van brandstof gevuld voor alle voertuigen</string>
+    <string name="add_car">Voeg auto toe</string>
+    <string name="enter_car_name">Voer de auto naam in</string>
+    <string name="distance_travelled">Afstandsauto is tot nu toe gedekt</string>
+    <string name="additional_info">Voer extra informatie in</string>
+    <string name="add_fuel_log">Voeg brandstoflogboek toe</string>
+    <string name="fuel_units">Brandstofeenheden</string>
+    <string name="fuel_price">Brandstofprijs</string>
+    <string name="odometer_value">Kilometerteller</string>
+    <string name="select_date">Selecteer Datum</string>
+    <string name="date">Datum</string>
+    <string name="check_my_other_apps">Controleer andere toepassingen</string>
+    <string name="empty_fields">Leeg velden</string>
+    <string name="see_app_on_boarding">Bekijk de handleiding</string>
+    <string name="settings">Instellingen</string>
+    <string name="share">Delen</string>
+    <string name="share_app">Delen</string>
+    <string name="rate_app">recensie</string>
+
+</resources>

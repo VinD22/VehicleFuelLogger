@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Seuraa polttoainetta, joka on täytetty kaikille ajoneuvoille</string>
+    <string name="add_car">Lisää auto</string>
+    <string name="enter_car_name">Anna auton nimi</string>
+    <string name="distance_travelled">Etäisyys autosta on katettu tähän asti</string>
+    <string name="additional_info">Anna lisätiedot</string>
+    <string name="add_fuel_log">Lisää polttoaineen loki</string>
+    <string name="fuel_units">Polttoaineyksiköt</string>
+    <string name="fuel_price">Polttoainehinta</string>
+    <string name="odometer_value">Matkamittari</string>
+    <string name="select_date">Valitse Päivämäärä</string>
+    <string name="date">päivämäärä</string>
+    <string name="check_my_other_apps">Tarkista toinen sovellus</string>
+    <string name="empty_fields">Tyhjät kentät</string>
+    <string name="see_app_on_boarding">Katso opetusohjelma</string>
+    <string name="settings">asetukset</string>
+    <string name="share">osuus</string>
+    <string name="share_app">osuus</string>
+    <string name="rate_app">Arvostelu</string>
+
+</resources>

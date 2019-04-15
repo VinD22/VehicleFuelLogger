@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Suivre le carburant rempli pour tous les véhicules</string>
+    <string name="add_car">Ajouter une voiture</string>
+    <string name="enter_car_name">Entrez le nom de votre voiture</string>
+    <string name="distance_travelled">La voiture de distance a couvert jusqu\'à présent</string>
+    <string name="additional_info">Entrez des informations supplémentaires</string>
+    <string name="add_fuel_log">Ajouter un journal de carburant</string>
+    <string name="fuel_units">Unités de carburant</string>
+    <string name="fuel_price">Prix ​​du carburant</string>
+    <string name="odometer_value">Odomètre</string>
+    <string name="select_date">Sélectionnez la date</string>
+    <string name="date">Rendez-vous amoureux</string>
+    <string name="check_my_other_apps">Vérifiez d\'autres applications</string>
+    <string name="empty_fields">Champs vides</string>
+    <string name="see_app_on_boarding">Voir le didacticiel</string>
+    <string name="settings">le réglage</string>
+    <string name="share">Partager</string>
+    <string name="share_app">Partager</string>
+    <string name="rate_app">la critique</string>
+
+</resources>

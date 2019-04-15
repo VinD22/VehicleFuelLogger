@@ -13,9 +13,6 @@ import android.widget.Toast;
 import io.realm.Realm;
 import model.Car;
 
-/**
- * Created by apple on 24/04/17.
- */
 
 public class AddCar extends AppCompatActivity {
 
@@ -24,6 +21,7 @@ public class AddCar extends AppCompatActivity {
     private Toolbar mToolbar;
     private Button mAddCar;
     private EditText mCarName, mCarDistanceTravelled, mCarAdditionalInfo;
+
 
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
@@ -67,14 +65,15 @@ public class AddCar extends AppCompatActivity {
                     Car newCar = realm.createObject(Car.class);
                     int nextKey = getNextKey();
                     newCar.setId(nextKey);
-                    newCar.setName(carName);
+                    newCar.setName(capitalizeFirstLetter(carName));
                     newCar.setDistanceTravelled(distanceTravelled);
                     newCar.setAdditionalInformation(additionalInformation);
 
                     realm.commitTransaction();
 
-                    Toast.makeText(AddCar.this, R.string.add_car, Toast.LENGTH_SHORT).show();
+                    // Toast.makeText(AddCar.this, R.string.add_car, Toast.LENGTH_SHORT).show();
                     Intent intent = new Intent(AddCar.this, MainActivity.class);
+                    intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP | Intent.FLAG_ACTIVITY_NEW_TASK);
                     startActivity(intent);
                     finish();
 

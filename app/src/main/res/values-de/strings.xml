@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Verfolgen Sie den Kraftstoff, der für alle Fahrzeuge gefüllt ist</string>
+    <string name="add_car">Auto hinzufügen</string>
+    <string name="enter_car_name">Geben Sie den Car Name ein</string>
+    <string name="distance_travelled">Entfernung Auto hat bis jetzt bedeckt</string>
+    <string name="additional_info">Zusätzliche Informationen eingeben</string>
+    <string name="add_fuel_log">Brennstoffprotokoll hinzufügen</string>
+    <string name="fuel_units">Treibstoffeinheiten</string>
+    <string name="fuel_price">Kraftstoffpreis</string>
+    <string name="odometer_value">Kilometerzähler</string>
+    <string name="select_date">Datum auswählen</string>
+    <string name="date">Datum</string>
+    <string name="check_my_other_apps">Überprüfe meine anderen Apps</string>
+    <string name="empty_fields">Leerfelder</string>
+    <string name="see_app_on_boarding">Tutorial ansehen</string>
+    <string name="settings">Einstellungen</string>
+    <string name="share">der Anteil</string>
+    <string name="share_app">der Anteil</string>
+    <string name="rate_app">Überprüfung</string>
+
+</resources>

@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Следить за заполненным топливом для всех транспортных средств</string>
+    <string name="add_car">Добавить автомобиль</string>
+    <string name="enter_car_name">Введите название автомобиля</string>
+    <string name="distance_travelled">Расстояние Автомобиль покрыл до сих пор</string>
+    <string name="additional_info">Введите дополнительную информацию</string>
+    <string name="add_fuel_log">Добавить журнал расхода топлива</string>
+    <string name="fuel_units">Топливные блоки</string>
+    <string name="fuel_price">Цена топлива</string>
+    <string name="odometer_value">Одометр</string>
+    <string name="select_date">Выберите дату</string>
+    <string name="date">Дата</string>
+    <string name="check_my_other_apps">Проверить другие мои приложения</string>
+    <string name="empty_fields">Пустые поля</string>
+    <string name="see_app_on_boarding">Посмотреть учебное пособие</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Поделиться</string>
+    <string name="share_app">Поделиться</string>
+    <string name="rate_app">Обзор приложения</string>
+
+</resources>

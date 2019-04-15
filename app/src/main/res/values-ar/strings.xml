@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">تتبع الوقود شغل لجميع المركبات</string>
+    <string name="add_car">إضافة سيارة</string>
+    <string name="enter_car_name">أدخل اسم السيارة</string>
+    <string name="distance_travelled">المسافة وقد غطت السيارة حتى الآن</string>
+    <string name="additional_info">أدخل معلومات إضافية</string>
+    <string name="add_fuel_log">إضافة سجل الوقود</string>
+    <string name="fuel_units">وحدات الوقود</string>
+    <string name="fuel_price">سعر الوقود</string>
+    <string name="odometer_value">عداد المسافات</string>
+    <string name="select_date">حدد تاريخ</string>
+    <string name="date">بلح</string>
+    <string name="check_my_other_apps">تحقق من بلدي تطبيقات أخرى</string>
+    <string name="empty_fields">الحقول الفارغة</string>
+    <string name="see_app_on_boarding">عرض البرنامج التعليمي</string>
+    <string name="settings">إعدادات</string>
+    <string name="share">شارك</string>
+    <string name="share_app">شارك</string>
+    <string name="rate_app">إعادة النظر</string>
+
+</resources>

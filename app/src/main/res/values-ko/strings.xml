@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">모든 차량에 충전 된 연료 추적</string>
+    <string name="add_car">자동차 추가</string>
+    <string name="enter_car_name">자동차 이름 입력</string>
+    <string name="distance_travelled">거리 차가 지금까지 커버되었습니다.</string>
+    <string name="additional_info">추가 정보 입력</string>
+    <string name="add_fuel_log">연료 로그 추가</string>
+    <string name="fuel_units">연료 장치</string>
+    <string name="fuel_price">연료 가격</string>
+    <string name="odometer_value">주행 거리계</string>
+    <string name="select_date">날짜 선택</string>
+    <string name="date">당일</string>
+    <string name="check_my_other_apps">다른 앱 확인</string>
+    <string name="empty_fields">빈 필드</string>
+    <string name="see_app_on_boarding">자습서보기</string>
+    <string name="settings">설정</string>
+    <string name="share">나누다</string>
+    <string name="share_app">나누다</string>
+    <string name="rate_app">비평</string>
+
+</resources>

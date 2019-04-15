@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Håll koll på bränsle fylld för alla fordon</string>
+    <string name="add_car">Lägg till bil</string>
+    <string name="enter_car_name">Ange bilnamn</string>
+    <string name="distance_travelled">Distansbil har täckt till nu</string>
+    <string name="additional_info">Ange ytterligare information</string>
+    <string name="add_fuel_log">Lägg till bränslelogg</string>
+    <string name="fuel_units">Bränsleenheter</string>
+    <string name="fuel_price">Bränslepris</string>
+    <string name="odometer_value">Vägmätare</string>
+    <string name="select_date">Välj datum</string>
+    <string name="date">Datum</string>
+    <string name="check_my_other_apps">Kontrollera andra program</string>
+    <string name="empty_fields">Kontrollera andra program</string>
+    <string name="see_app_on_boarding">Visa handledning</string>
+    <string name="settings">inställningar</string>
+    <string name="share">dela</string>
+    <string name="share_app">dela</string>
+    <string name="rate_app">Recension</string>
+
+</resources>

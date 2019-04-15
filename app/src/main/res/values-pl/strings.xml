@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Śledź paliwo napełniane dla wszystkich pojazdów</string>
+    <string name="add_car">Dodaj samochód</string>
+    <string name="enter_car_name">Wprowadź nazwę samochodu</string>
+    <string name="distance_travelled">Samochodów dystansowych został zakryty do tej pory</string>
+    <string name="additional_info">Wprowadź dodatkowe informacje</string>
+    <string name="add_fuel_log">Dodaj dziennik paliw</string>
+    <string name="fuel_units">Jednostki paliwowe</string>
+    <string name="fuel_price">Cena paliwa</string>
+    <string name="odometer_value">Drogomierz</string>
+    <string name="select_date">Wybierz Data</string>
+    <string name="date">Data</string>
+    <string name="check_my_other_apps">Sprawdź inne aplikacje</string>
+    <string name="empty_fields">Pustych polach</string>
+    <string name="see_app_on_boarding">Zobacz samouczek</string>
+    <string name="settings">naregulowanie</string>
+    <string name="share">Dzielić</string>
+    <string name="share_app">Dzielić</string>
+    <string name="rate_app">Recenzja</string>
+
+</resources>

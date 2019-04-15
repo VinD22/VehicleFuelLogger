@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Manter o controle do combustível cheio para todos os veículos</string>
+    <string name="add_car">Adicionar carro</string>
+    <string name="enter_car_name">Insira o nome do carro</string>
+    <string name="distance_travelled">Distância de carro coberto até agora</string>
+    <string name="additional_info">Inserir Informações Adicionais</string>
+    <string name="add_fuel_log">Adicionar registro de combustível</string>
+    <string name="fuel_units">Unidades de combustível</string>
+    <string name="fuel_price">Preço do Combustível</string>
+    <string name="odometer_value">Odômetro</string>
+    <string name="select_date">Selecionar data</string>
+    <string name="date">datar</string>
+    <string name="check_my_other_apps">Verificar os meus outros aplicativos</string>
+    <string name="empty_fields">Campos vazios</string>
+    <string name="see_app_on_boarding">Ver Tutorial</string>
+    <string name="settings">o cenário</string>
+    <string name="share">a ação</string>
+    <string name="share_app">a ação</string>
+    <string name="rate_app">Rever aplicativo</string>
+
+</resources>

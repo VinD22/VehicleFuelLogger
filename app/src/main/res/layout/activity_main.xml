@@ -33,9 +33,11 @@
         android:layout_height="wrap_content"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
         android:layout_gravity="bottom|end"
         android:layout_margin="16dp"
-        android:elevation="0dp"
+        android:src="@drawable/fab_add_car"
+        app:backgroundTint="@color/colorAccent"
         app:srcCompat="@drawable/fab_add_car" />
 
 </RelativeLayout>

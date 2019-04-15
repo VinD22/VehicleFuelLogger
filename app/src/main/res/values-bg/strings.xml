@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Проследявайте пълното гориво за всички превозни средства</string>
+    <string name="add_car">Добавяне на кола</string>
+    <string name="enter_car_name">Въведете името на колата</string>
+    <string name="distance_travelled">Отдалеченият автомобил е покрит досега</string>
+    <string name="additional_info">Въведете допълнителна информация</string>
+    <string name="add_fuel_log">Добавете дневника за гориво</string>
+    <string name="fuel_units">Горивни елементи</string>
+    <string name="fuel_price">Цена на горивото</string>
+    <string name="odometer_value">Одометър</string>
+    <string name="select_date">Изберете Дата</string>
+    <string name="date">фурма</string>
+    <string name="check_my_other_apps">Проверете моята друга молба</string>
+    <string name="empty_fields">Празни полета</string>
+    <string name="see_app_on_boarding">Преглед на инстркцията</string>
+    <string name="settings">Настройки</string>
+    <string name="share">Дял</string>
+    <string name="share_app">Дял</string>
+    <string name="rate_app">Преглед на приложението</string>
+
+</resources>

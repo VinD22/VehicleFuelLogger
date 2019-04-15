@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Sledujte palivo naplnené pre všetky vozidlá</string>
+    <string name="add_car">Pridať auto</string>
+    <string name="enter_car_name">Zadajte názov auta</string>
+    <string name="distance_travelled">Vzdialenosť automobilu je už pokrytá</string>
+    <string name="additional_info">Zadajte ďalšie informácie</string>
+    <string name="add_fuel_log">Pridajte záznam palív</string>
+    <string name="fuel_units">Palivové jednotky</string>
+    <string name="fuel_price">Cena pohonných hmôt</string>
+    <string name="odometer_value">Počítadlo kilometrov</string>
+    <string name="select_date">Vyberte dátum</string>
+    <string name="date">Dátum</string>
+    <string name="check_my_other_apps">Skontrolujte moje ďalšie aplikácie</string>
+    <string name="empty_fields">Prázdne polia</string>
+    <string name="see_app_on_boarding">Zobraziť príručku</string>
+    <string name="settings">nastavenie</string>
+    <string name="share">rozdeliť</string>
+    <string name="share_app">rozdeliť</string>
+    <string name="rate_app">Recenzia aplikácie</string>
+
+</resources>

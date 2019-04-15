@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">Selectați data</string>
+    <string name="add_car">Adaugă mașina</string>
+    <string name="enter_car_name">Introduceți numele mașinii</string>
+    <string name="distance_travelled">Distanta Mașină a fost acoperită până acum</string>
+    <string name="additional_info">Introduceți informații suplimentare</string>
+    <string name="add_fuel_log">Adăugați jurnalul de combustibil</string>
+    <string name="fuel_units">Unități de combustibil</string>
+    <string name="fuel_price">Prețul combustibilului</string>
+    <string name="odometer_value">Odometru</string>
+    <string name="select_date">Selectați data</string>
+    <string name="date">Data</string>
+    <string name="check_my_other_apps">Verificați alte aplicații</string>
+    <string name="empty_fields">Câmpuri goale</string>
+    <string name="see_app_on_boarding">Vizualizați tutorialul</string>
+    <string name="settings">reglaj</string>
+    <string name="share">împărţi</string>
+    <string name="share_app">împărţi</string>
+    <string name="rate_app">Revizuire</string>
+
+</resources>

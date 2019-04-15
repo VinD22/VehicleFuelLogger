@@ -1,0 +1,23 @@
+<resources>
+
+    <string name="about_app">עקוב אחר דלק מלא עבור כל כלי הרכב</string>
+    <string name="add_car">הוסף רכב</string>
+    <string name="enter_car_name">הזן שם רכב</string>
+    <string name="distance_travelled">מרחק המכונית יש מכוסה עד עכשיו</string>
+    <string name="additional_info">הזן פרטים נוספים</string>
+    <string name="add_fuel_log">הוסף יומן דלק</string>
+    <string name="fuel_units">יחידות דלק</string>
+    <string name="fuel_price">מחיר דלק</string>
+    <string name="odometer_value">מַד מֶרְחָק</string>
+    <string name="select_date">בחר תאריך</string>
+    <string name="date">תַאֲרִיך</string>
+    <string name="check_my_other_apps">בדוק יישומים אחרים</string>
+    <string name="empty_fields">שדות ריקים</string>
+    <string name="see_app_on_boarding">הצג את המדריך</string>
+    <string name="settings">סְבִיבָה</string>
+    <string name="share">לַחֲלוֹק</string>
+    <string name="share_app">לַחֲלוֹק</string>
+    <string name="rate_app">סקירה</string>
+
+</resources>
+

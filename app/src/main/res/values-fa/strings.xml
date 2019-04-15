@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="about_app">آهنگ از سوخت پر برای همه وسایل نقلیه نگه دارید</string>
+    <string name="add_car">اضافه کردن اتومبیل</string>
+    <string name="enter_car_name">نام خودرو را وارد کنید</string>
+    <string name="distance_travelled">فاصله خودرو که تا کنون تحت پوشش</string>
+    <string name="additional_info">اطلاعات اضافی را وارد کنید</string>
+    <string name="add_fuel_log">اضافه کردن ورود سوخت</string>
+    <string name="fuel_units">واحد سوخت</string>
+    <string name="fuel_price">سوخت قیمت</string>
+    <string name="odometer_value">کیلومتر شمار</string>
+    <string name="select_date">انتخاب تاریخ</string>
+    <string name="date">تاریخ</string>
+    <string name="check_my_other_apps">بررسی برنامه های دیگر من</string>
+    <string name="empty_fields">زمینه های خالی</string>
+    <string name="see_app_on_boarding">مشاهده آموزش</string>
+    <string name="settings">تنظیمات</string>
+    <string name="share">بخش کردن</string>
+    <string name="share_app">بخش کردن</string>
+    <string name="rate_app">تجدید نظر</string>
+
+</resources>
